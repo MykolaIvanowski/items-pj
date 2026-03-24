@@ -1,0 +1,3 @@
+DATABASE_URL = 'SQLALCHEMY_DATABASE_URI=sqlite:///db.sqlite3'
+JWT_SECRET = 'supersecret'
+JWT_ALGORITHM = 'HS256'
